@@ -18,7 +18,7 @@ export default function NewCategories() {
     getCategories();
   }, []);
 
-  return (
+  return (  
     <>
       <h2 className="mb-5 text-4xl  text-main flex justify-center">All Categories</h2>
 
